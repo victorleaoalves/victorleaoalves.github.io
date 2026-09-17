@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Página de Victor Leão de Oliveira Alves</title>
+</head>
+
+<body>
+
+  <h1>Victor Leão de Oliveira Alves</h1>
+
+  <img src="foto.jpg" alt="Foto de Victor Leão" width="180">
+
+  <p>E-mail: <a href="mailto:victorleaoalves@gmail.com">victorleaoalves@gmail.com</a></p>
+
+  <h2>Cursos</h2>
+  <ul>
+    <li>Bacharelado em Sistemas de Informação - IFAL</li>
+    <li>Introdução às Tecnologias Web</li>
+  </ul>
+
+  <h2>Minhas atividades</h2>
+  <ul>
+    <li><a href="https://https://github.com/engsoft-ifal/intw-bsi-2026-2-ex-u0-01-primeira-pagina-victorleaoalves">Minha primeira página</a></li>
+    <li><a href="https://https://github.com/victorleaoalves/victorleaoalves.github.io">Repositório desta página</a></li>
+  </ul>
+
+</body>
+
+</html>
